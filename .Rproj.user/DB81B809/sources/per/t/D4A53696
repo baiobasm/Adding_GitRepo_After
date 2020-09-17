@@ -1,0 +1,25 @@
+{
+    "id": "D4A53696",
+    "path": "~/R/Adding GitRepo After/1stfile.R",
+    "project_path": "1stfile.R",
+    "type": "r_source",
+    "hash": "1281595067",
+    "contents": "",
+    "dirty": false,
+    "created": 1600343984915.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "0,60",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1600344020,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1600344020101,
+    "read_only": false,
+    "read_only_alternatives": []
+}
